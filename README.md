@@ -11,6 +11,15 @@ In modern life, the control of DC motor position with variable load is a topic o
 
 ## 2. PID Control and Software
 
+![image](https://github.com/user-attachments/assets/32eda0cc-affb-45f7-aa17-8e270d05e135)
+
+![image](https://github.com/user-attachments/assets/2583d222-b73d-4278-9f45-33932420a836)
+
+![image](https://github.com/user-attachments/assets/80ad47a6-55f2-4a9b-9f5d-edd25f1e9cb1)
+
+
+
+
 
 ## 3. Hardware system
 
