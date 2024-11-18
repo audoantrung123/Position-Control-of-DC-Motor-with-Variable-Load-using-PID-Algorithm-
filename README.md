@@ -14,8 +14,29 @@ In modern life, the control of DC motor position with variable load is a topic o
 
 ## 3. Hardware system
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1eec4d1a-2fbc-46e0-b3fa-c31df2fa5529" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4e20bc5c-0c7e-48ad-9bf6-a4696ad50060" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8235b476-d0d3-4436-afeb-358fd1032b96" width="50%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0e65de56-d5d3-4a19-9347-9ec5d2337e22" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/24799d60-d711-469d-a77b-96073e96cff6" width="50%" />
+</p>
+
 
 ## 4. Result
+
 
 ## 5. Conclusion
 
