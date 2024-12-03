@@ -1,5 +1,5 @@
 # DC MOTOR POSITION CONTROL CHANGING LOAD USING PID ALGORITHM
-An Off-policy Reinforcement Learning Algorithm for Optimal Tracking Control Problem
+A real-time motor position control system that adapts to varying loads and provides a GUI for monitoring and visualization.
 
 Full report: [link](https://drive.google.com/drive/folders/19ZD4xyNkR37CUa6bdA6HGHrCjVmCD2ta?usp=drive_link)
 
